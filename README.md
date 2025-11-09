@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div align="center">
+    
+  ![snake gif](https://github.com/Mohamedbza/Mohamedbza/blob/output/github-snake-dark.svg)
+</div>
 <!--
 **Mohamedbza/Mohamedbza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
